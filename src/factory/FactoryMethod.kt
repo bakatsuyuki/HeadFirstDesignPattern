@@ -1,4 +1,4 @@
-package Factory
+package factory
 
 /*
 fun Factory.main() {
